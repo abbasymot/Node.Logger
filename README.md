@@ -9,8 +9,7 @@ Install dependencies
 npm install
 
 ```
-Create app.js
-Import Logger
+Create a js file and import Logger
 ```
 const logger = require("./logger")
 ```
