@@ -2,7 +2,7 @@
 Simple logger using Node.js
 
 # Get Started
-## Install dependencies
+Install dependencies
 ```
 npm install
 
