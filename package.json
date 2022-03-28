@@ -1,0 +1,22 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Simple logger",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasymot/Node.Logger.git"
+  },
+  "author": "Amirabbas Motamedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbasymot/Node.Logger/issues"
+  },
+  "homepage": "https://github.com/abbasymot/Node.Logger#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
